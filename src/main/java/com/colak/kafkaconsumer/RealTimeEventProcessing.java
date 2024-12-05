@@ -12,6 +12,7 @@ import org.json.JSONObject;
 import java.time.Duration;
 import java.util.Properties;
 
+// See https://medium.com/@platform.engineers/building-real-time-event-processing-pipelines-with-kafka-and-flink-18fa87ecd901
 // This example demonstrates how to consume events from Kafka, enrich the data, and generate alerts based on the processed data, all within a real-time event processing pipeline using Flink.
 public class RealTimeEventProcessing {
 
